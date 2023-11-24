@@ -10,5 +10,5 @@
 	</a>
 </div>
 <div id="counter" align="center">
-    ![](https://komarev.com/ghpvc/?username=GlebSeitmemetov)
+    <img src="https://komarev.com/ghpvc/?username=GlebSeitmemetov>
 </div>
