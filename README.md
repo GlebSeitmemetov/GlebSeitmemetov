@@ -6,6 +6,6 @@
 		<img src="https://img.shields.io/badge/Leet%20Code-black?logo=leetcode" alt="LeetCode Badge"/>
 	</a>
 	<a href="https://t.me/glebseitmemetovchannel">
-		<img src="https://img.shields.io/badge/Telegram-blue?logo=telegram" alt="TelegramChanel Badge"/>
+		<img src="https://img.shields.io/badge/Telegram-%23229ED9?style=flat-square" alt="TelegramChanel Badge"/>
 	</a>
 </div>
